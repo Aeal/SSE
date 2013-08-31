@@ -1,0 +1,11 @@
+{
+    "PackageName" : "SSE",
+    "PackageURL"  : "https://github.com/Aeal/SSE.git",
+    "PackageMaintainer" : "Aeal",
+    "PackageDescription" : null,
+    "InfoUrl"            : "https://raw.github.com/Aeal/SSE/info.ups",
+    "PackageVersion"     : 1,
+    "useCredentials"     : false,
+    "Username"           : "",
+    "Password"           : ""
+}
